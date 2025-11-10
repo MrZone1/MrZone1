@@ -15,6 +15,14 @@ Passionate about creating digital experiences, I combine web development and gam
 - 🎨 Interface design with **Figma**
 - 📚 Always learning new technologies
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZone1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -29,11 +37,3 @@ Passionate about creating digital experiences, I combine web development and gam
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZone1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
