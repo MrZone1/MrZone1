@@ -19,7 +19,7 @@ Passionate about creating digital experiences, I combine web development and gam
 
 <div align="center">
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZone1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZone1&layout=compact&hide_border=true)
 
 </div>
 
