@@ -15,14 +15,6 @@ Passionate about creating digital experiences, I combine web development and gam
 - 🎨 Interface design with **Figma**
 - 📚 Always learning new technologies
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZone1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0)
-
-</div>
-
 ## 🛠️ Technologies & Tools
 
 ### Languages
