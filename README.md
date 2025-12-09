@@ -19,15 +19,6 @@
 
 Passionné par la création d'expériences numériques innovantes, je combine le développement web moderne et la création de jeux vidéo. J'aime transformer des idées en projets concrets et fonctionnels qui font la différence.
 
-```javascript
-const enzo = {
-    passions: ["Développement Web", "Game Design", "UI/UX"],
-    currentFocus: "Création d'applications web performantes",
-    learning: ["React avancé", "Architecture logicielle", "Design patterns"],
-    askMeAbout: ["JavaScript", "Unity", "Figma", "Node.js"]
-};
-```
-
 - 🎮 Développement de jeux avec **Unity** et **C#**
 - 💻 Création d'applications web modernes et réactives
 - 🎨 Design d'interfaces avec **Figma**
