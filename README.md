@@ -1,31 +1,78 @@
-# 👋 Hi, I'm Enzo!
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Unity+Game+Creator;UI%2FUX+Designer+with+Figma)
-  
+
+# 👋 Salut, je suis Enzo!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Unity+Game+Creator;UI%2FUX+Designer+with+Figma;Passionate+about+innovation" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://github.com/MrZone1">
+    <img src="https://img.shields.io/github/followers/MrZone1?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MrZone1&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
+
 </div>
 
-## 🚀 About Me
+---
 
-Passionate about creating digital experiences, I combine web development and game creation. I love turning ideas into concrete and functional projects.
+## 🎯 À propos de moi
 
-- 🎮 Game development with **Unity**
-- 💻 Building modern web applications
-- 🎨 Interface design with **Figma**
-- 📚 Always learning new technologies
+Passionné par la création d'expériences numériques innovantes, je combine le développement web moderne et la création de jeux vidéo. J'aime transformer des idées en projets concrets et fonctionnels qui font la différence.
 
-## 🛠️ Technologies & Tools
+```javascript
+const enzo = {
+    passions: ["Développement Web", "Game Design", "UI/UX"],
+    currentFocus: "Création d'applications web performantes",
+    learning: ["React avancé", "Architecture logicielle", "Design patterns"],
+    askMeAbout: ["JavaScript", "Unity", "Figma", "Node.js"]
+};
+```
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- 🎮 Développement de jeux avec **Unity** et **C#**
+- 💻 Création d'applications web modernes et réactives
+- 🎨 Design d'interfaces avec **Figma**
+- 🚀 Toujours en quête de nouvelles technologies à maîtriser
+- 🌱 Apprentissage continu et amélioration constante
 
-### Tools & Platforms
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+---
+
+## 🛠️ Stack Technique
+
+<div align="center">
+
+### 💻 Langages de programmation
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</p>
+
+### 🚀 Frameworks & Bibliothèques
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
+</p>
+
+### 🔧 Outils & Plateformes
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
